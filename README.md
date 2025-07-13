@@ -69,4 +69,4 @@ streamlit run app/mini.py
 
 ## 📬 Contact
 
-Created by [Your Name] – feel free to reach out via email or GitHub!
+Created by Rukmini K – feel free to reach out via email or GitHub!
